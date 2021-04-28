@@ -69,7 +69,7 @@ This app was developed using JavaScript, React, Express, Node, PostgreSQL, KnexJ
 
 -----------------------------------------------------------------------------------------------------
 
-How to start it up:
+## How to start it up:
 
 Install dependencies in terminal with
 
