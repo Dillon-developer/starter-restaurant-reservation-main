@@ -8,5 +8,5 @@ Reservation App Link
 -----------------------------------------------------------------------------------------------
 ## Screenshots
 ----------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/72090865/116441660-41684a00-a817-11eb-9d2f-2a62666f3272.png)
+![image](https://user-images.githubusercontent.com/72090865/116441764-5a70fb00-a817-11eb-9bde-d514169697a2.png)
 ![image](https://user-images.githubusercontent.com/72090865/116441692-47f6c180-a817-11eb-90bc-231fd3a45d22.png)
